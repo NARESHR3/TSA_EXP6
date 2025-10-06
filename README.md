@@ -1,6 +1,7 @@
-# Ex.No: 6               HOLT WINTERS METHOD
-### Date: 
 
+# Ex.No: 6               HOLT WINTERS METHOD
+### Date: 6-10-25
+### NARESH.R(212223240104)
 
 
 ### AIM:
